@@ -34,7 +34,7 @@ The data array will contain the matching result based on the provided search cri
 !!! info "Response Mechanism Explanation"
     The response will first be classified by the AI to determine the type of question. Based on the identified type, the corresponding vector database will be queried to generate an appropriate answer. Therefore, please provide detailed questions to ensure accurate responses.
     
-    If you want to know the available keywords, please click [here](http://127.0.0.1:8000/ogc-demo-web/Section2-Data%20Processing%20Method/).
+    If you want to know the available keywords, please click [here](https://ryan19981229.github.io/ogc-demo-web/Section2-Data%20Processing%20Method/).
 
 ### Example of Usage
 To ask for climate change increase the risk of flooding in Canada.
